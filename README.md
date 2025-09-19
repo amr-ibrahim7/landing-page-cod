@@ -2,7 +2,7 @@
 
 A responsive e-commerce landing page with a complete checkout flow, built with React and Tailwind CSS.
 
-<!-- ### [View Live Demo](https://landing-page-cod-psi.vercel.app/)
+ ### [View Live Demo](https://landing-page-cod-psi.vercel.app/)
 
 
 ### Project Demo
