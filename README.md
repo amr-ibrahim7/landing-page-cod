@@ -2,12 +2,21 @@
 
 A responsive e-commerce landing page with a complete checkout flow, built with React and Tailwind CSS.
 
-<!-- ### [View Live Demo]()
+<!-- ### [View Live Demo](https://landing-page-cod-psi.vercel.app/)
 
 
 ### Project Demo
 
-![Project Demo Image]()
+![Project Demo Image](
+
+<img width="1271" height="621" alt="1" src="https://github.com/user-attachments/assets/cdc64fc8-030e-4ded-af19-e143598c49eb" />
+
+<br/>
+<br/>
+
+<img width="1280" height="618" alt="2" src="https://github.com/user-attachments/assets/7c6f9c02-3056-418e-998a-9784592bc559" />
+
+)
 
 
 ---
