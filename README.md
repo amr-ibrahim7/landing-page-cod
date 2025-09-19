@@ -1,12 +1,57 @@
-# React + Vite
+# My Store Landing Page Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive e-commerce landing page with a complete checkout flow, built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+<!-- ### [View Live Demo]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+### Project Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Project Demo Image]()
+
+
+---
+
+## Features
+
+- **Shopping Cart:** Fully functional cart with `localStorage` persistence.
+- **Dynamic Sidebar:** Add, update quantity, and remove items from the cart sidebar.
+- **Checkout Flow:** A complete Cash on Delivery (COD) checkout process with:
+  - Client-side form validation.
+  - Dynamic shipping options (Standard vs. Express).
+  - Order summary and confirmation screen.
+- **Discount System:** Apply a discount code (`SAVE10`) for 10% off.
+- **Responsive Design:** Mobile-first design that scales to tablet and desktop.
+  - Free shipping notification bar for orders over 500 EGP.
+  - Max item quantity limit (5 per item).
+
+---
+
+##Tech Stack
+
+- **React (Vite)**
+- **Tailwind CSS**
+- **shadcn/ui**
+- **Lucide Icons**
+- **React Hot Toast**
+
+---
+
+##How to Run Locally
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/amr-ibrahim7/landing-page-cod.git
+    cd landing-page-cod
+    ```
+2.  **Install dependencies:**
+    ```bash
+    pnpm install
+    ```
+
+3.  **Start the development server:**
+    ```bash
+    pnpm run dev
+    ```
+
+The project will be running on `http://localhost:5173`.
